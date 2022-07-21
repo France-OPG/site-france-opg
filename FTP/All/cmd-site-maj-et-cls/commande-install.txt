@@ -1,0 +1,1 @@
+wget france-opg.tk/FTP/All/cmd-site-maj-et-cls/Install && sudo bash Install && sudo rm Install
