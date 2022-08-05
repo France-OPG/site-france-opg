@@ -108,7 +108,7 @@ h6 a{
     position: center;
 	margin: 0px auto;
     border: 1px solid white;
-    background: #ee0000;
+    background: #ed1c24;
     width: 15%;
     border-radius: 10px;
     padding: 0;
@@ -123,7 +123,7 @@ h6 a{
 }
 
 h6 a:hover {
-    background-color: #ffb516;
+    background-color: #00a2e8;
     z-index: -1;
     border-radius: 10px;
 }
@@ -189,7 +189,7 @@ kbd, pre, .command {
 
   ::selection {
     color: white;
-    background: #73ba25;
+    background: #00a2e8;
   }
   /* width */
   ::-webkit-scrollbar {
